@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.6",
-    "released":  "2026-08-10T21:20:23Z",
-    "notes":  "add startup performance log",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.6/FoxNote-Setup-0.1.6.exe",
-    "sha256":  "2595b4471b6c9e73f254bdc4484170319685e01fc400771792ffed389c095dd7"
+    "version":  "0.1.7",
+    "released":  "2026-08-10T23:16:51Z",
+    "notes":  "Fix big issue with rerendering entire doc, instead of very focused sections.",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.7/FoxNote-Setup-0.1.7.exe",
+    "sha256":  "6ceb867a10ca3f20c688ff484fca6ff09ac40e177e4be7d77f10e63bc0b41001"
 }
