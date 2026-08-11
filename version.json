@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.5",
-    "released":  "2026-08-10T21:09:11Z",
-    "notes":  "Fix installer to close existing windows, fixed undo",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.5/FoxNote-Setup-0.1.5.exe",
-    "sha256":  "c32c9a8fb93def1509c2d644e8043f3e959cf1917ff015c72b5def108077c33b"
+    "version":  "0.1.6",
+    "released":  "2026-08-10T21:20:23Z",
+    "notes":  "add startup performance log",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.6/FoxNote-Setup-0.1.6.exe",
+    "sha256":  "2595b4471b6c9e73f254bdc4484170319685e01fc400771792ffed389c095dd7"
 }
