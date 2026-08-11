@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.4",
-    "released":  "2026-08-10T17:53:59Z",
-    "notes":  "Improvements to gutter selection",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.4/FoxNote-Setup-0.1.4.exe",
-    "sha256":  "86608446c50682fd1f29125709031683ee4e6c52408abd93788bdf40c448084a"
+    "version":  "0.1.5",
+    "released":  "2026-08-10T21:09:11Z",
+    "notes":  "Fix installer to close existing windows, fixed undo",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.5/FoxNote-Setup-0.1.5.exe",
+    "sha256":  "c32c9a8fb93def1509c2d644e8043f3e959cf1917ff015c72b5def108077c33b"
 }
