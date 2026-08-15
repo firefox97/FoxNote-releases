@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.9",
-    "released":  "2026-08-15T13:33:42Z",
-    "notes":  "More work on initial load flash, and scroll position return",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.9/FoxNote-Setup-0.1.9.exe",
-    "sha256":  "074aba92e7cd9d16d1cb3980372321170259372901658eefc2f28200ee6e677a"
+    "version":  "0.1.10",
+    "released":  "2026-08-15T14:39:20Z",
+    "notes":  "Hopefully fix to gutter flash on load",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.10/FoxNote-Setup-0.1.10.exe",
+    "sha256":  "bf1e8fca268083b5aa883e3cc0b7fda27f67b905591470fe428046af1dc84d44"
 }
