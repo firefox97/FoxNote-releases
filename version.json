@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.7",
-    "released":  "2026-08-10T23:16:51Z",
-    "notes":  "Fix big issue with rerendering entire doc, instead of very focused sections.",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.7/FoxNote-Setup-0.1.7.exe",
-    "sha256":  "6ceb867a10ca3f20c688ff484fca6ff09ac40e177e4be7d77f10e63bc0b41001"
+    "version":  "0.1.8",
+    "released":  "2026-08-15T10:03:44Z",
+    "notes":  "Changes to Selection, syncing open notes, focused spell check, Notes and editor zoom, Notes divider moving, \n  Paste cleanup, indent on section",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.8/FoxNote-Setup-0.1.8.exe",
+    "sha256":  "e8cd30f08218624f6449e5a7289d818a4f54ae8d41654ad938a80ddfb329941b"
 }
