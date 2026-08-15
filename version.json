@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.10",
-    "released":  "2026-08-15T14:39:20Z",
-    "notes":  "Hopefully fix to gutter flash on load",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.10/FoxNote-Setup-0.1.10.exe",
-    "sha256":  "bf1e8fca268083b5aa883e3cc0b7fda27f67b905591470fe428046af1dc84d44"
+    "version":  "0.1.11",
+    "released":  "2026-08-15T15:35:17Z",
+    "notes":  "Fix spell check on launch causing selection gitter on load",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.11/FoxNote-Setup-0.1.11.exe",
+    "sha256":  "b9392d599a2e2185f49588ebd0dba23e84a139722549101b469a0ff7c31e62bf"
 }
