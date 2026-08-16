@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.11",
-    "released":  "2026-08-15T15:35:17Z",
-    "notes":  "Fix spell check on launch causing selection gitter on load",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.11/FoxNote-Setup-0.1.11.exe",
-    "sha256":  "b9392d599a2e2185f49588ebd0dba23e84a139722549101b469a0ff7c31e62bf"
+    "version":  "0.1.12",
+    "released":  "2026-08-15T22:41:00Z",
+    "notes":  "match size between notes and editor",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.12/FoxNote-Setup-0.1.12.exe",
+    "sha256":  "c5662a28adf2ace68d9dee0c6e4e3169ad281ca19bc8dcab2ca67c52b2e01a25"
 }
