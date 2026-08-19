@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.13",
-    "released":  "2026-08-17T19:05:36Z",
-    "notes":  "Select doesn\u0027t use word, reorder notes on edit not only save, Long selection scroll fix",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.13/FoxNote-Setup-0.1.13.exe",
-    "sha256":  "4e8e6e27a1eafc4f947c531a44562ad438b317c3e15378613277ebd0bc483de9"
+    "version":  "0.1.14",
+    "released":  "2026-08-19T16:31:47Z",
+    "notes":  "Fix new note zoom bug",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.14/FoxNote-Setup-0.1.14.exe",
+    "sha256":  "e905e8049c14163fa1c183860afc7adec9a3031e6bebe9e3c707d419e143d60c"
 }
