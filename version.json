@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.14",
-    "released":  "2026-08-19T16:31:47Z",
-    "notes":  "Fix new note zoom bug",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.14/FoxNote-Setup-0.1.14.exe",
-    "sha256":  "e905e8049c14163fa1c183860afc7adec9a3031e6bebe9e3c707d419e143d60c"
+    "version":  "0.1.15",
+    "released":  "2026-09-22T20:45:02Z",
+    "notes":  "Fix scolling a large note, and a bunch of speed improvements\nFix view scrolling when inserting a line",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.15/FoxNote-Setup-0.1.15.exe",
+    "sha256":  "a701f242e83504e863faadca23c25a09e3241eb855b259e88184c2b0d355def5"
 }
