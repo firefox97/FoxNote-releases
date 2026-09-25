@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.15",
-    "released":  "2026-09-22T20:45:02Z",
-    "notes":  "Fix scolling a large note, and a bunch of speed improvements\nFix view scrolling when inserting a line",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.15/FoxNote-Setup-0.1.15.exe",
-    "sha256":  "a701f242e83504e863faadca23c25a09e3241eb855b259e88184c2b0d355def5"
+    "version":  "0.1.16",
+    "released":  "2026-09-25T08:25:21Z",
+    "notes":  "Fix scaling of notes list, show version in menu",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.16/FoxNote-Setup-0.1.16.exe",
+    "sha256":  "6b2024d478f85d3fec93b2aaeb7413d164bd2b75963c10c8952d0a7a95d66e64"
 }
