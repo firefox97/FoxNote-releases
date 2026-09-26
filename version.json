@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.16",
-    "released":  "2026-09-25T08:25:21Z",
-    "notes":  "Fix scaling of notes list, show version in menu",
-    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.16/FoxNote-Setup-0.1.16.exe",
-    "sha256":  "6b2024d478f85d3fec93b2aaeb7413d164bd2b75963c10c8952d0a7a95d66e64"
+    "version":  "0.1.17",
+    "released":  "2026-09-26T13:57:53Z",
+    "notes":  "Change gutter to only select in gutter and not try to also select in text",
+    "download_url":  "https://github.com/firefox97/FoxNote-releases/releases/download/v0.1.17/FoxNote-Setup-0.1.17.exe",
+    "sha256":  "871f2cb58f458379af35ab041591ef2fdb68039b1c34a40471a5598b60731c97"
 }
